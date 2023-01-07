@@ -5,7 +5,7 @@
 
 
 
-![snake gif](https://github.com/MALLLAG/MALLLAG/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake dark](https://github.com/MALLLAG/MALLLAG/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 
 </div>
