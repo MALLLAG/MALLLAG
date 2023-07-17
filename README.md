@@ -4,6 +4,8 @@
   </a>
 </h1>
 
+![1](https://github.com/MALLLAG/TIL/assets/87420630/e466d907-17dc-4b2a-9ac4-9a7e237f4ec2)
+
 ```kotlin
 enum class Me {
     KIM_SUNG_HYUN,
