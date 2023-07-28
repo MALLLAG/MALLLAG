@@ -20,6 +20,8 @@ enum class Tech {
 }
 ```
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=beyool95)](https://solved.ac/beyool95/)
+
 <div align="center">
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
