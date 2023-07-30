@@ -6,22 +6,6 @@
 
 ![1](https://github.com/MALLLAG/TIL/assets/87420630/e466d907-17dc-4b2a-9ac4-9a7e237f4ec2)
 
-```kotlin
-enum class Me {
-    KIM_SUNG_HYUN,
-    BACKEND
-}
-
-enum class Tech {
-    JAVA,
-    KOTLIN,
-    SPRING,
-    MYSQL
-}
-```
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=beyool95)](https://solved.ac/beyool95/)
-
 <div align="center">
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
@@ -29,3 +13,5 @@ enum class Tech {
 <!-- ![GitHub Snake dark](https://github.com/MALLLAG/MALLLAG/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only) -->
 
 </div>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=beyool95)](https://solved.ac/beyool95/)
