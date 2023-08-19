@@ -8,7 +8,7 @@
 
 <div align="center">
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-gitblock.svg)
   
 <!-- ![GitHub Snake dark](https://github.com/MALLLAG/MALLLAG/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only) -->
 
