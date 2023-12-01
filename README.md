@@ -14,4 +14,4 @@
 
 </div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=beyool95)](https://solved.ac/beyool95/)
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=beyool95)](https://solved.ac/beyool95/) -->
