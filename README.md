@@ -1,9 +1,3 @@
-<h1>
-  
-  [About Me](https://wooden-trampoline-28b.notion.site/d53e0f366b0d48909b50bc4f249acae2)
-  
-</h1>
-
 ![1](https://github.com/MALLLAG/TIL/assets/87420630/e466d907-17dc-4b2a-9ac4-9a7e237f4ec2)
 
 <div align="center">
